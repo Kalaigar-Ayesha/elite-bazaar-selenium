@@ -45,3 +45,5 @@ $env:BASE_URL="https://elite-bazaar-front.vercel.app/"
 
 # Run tests with visible browser (default is headless)
 $env:HEADLESS="0"
+pytest -v
+
